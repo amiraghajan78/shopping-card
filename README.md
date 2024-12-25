@@ -3,7 +3,7 @@
 ### Project Link (click to view project) :
 [`shopping-card`](https://amiraghajan78.github.io/shopping-card/)
 
-#### After entering the project, first click on the word shop in the header so that the products will be displayed for you. Because dynamic projects cannot be deployed on github-page.
+#### After entering the project, first click on the word shop in the header so that the products will be displayed for you. Because dynamic projects cannot be deployed on github-page. Please do not refresh the pages.
 
 #### Technologies used in this project :
   1. React
