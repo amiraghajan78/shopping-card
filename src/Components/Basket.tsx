@@ -52,7 +52,7 @@ function Basket() {
               </Row>
             ) : (
               <section className="basket-status-container f-c">
-                <img src="./public/img/basket-icon.svg" alt="" className="basket-logo" />
+                <img src="public/img/basket-icon.svg" alt="" className="basket-logo" />
                 <h1>Your Basket is Empty ☹</h1>
               </section>
             )
